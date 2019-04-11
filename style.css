@@ -1,0 +1,20 @@
+body {background-color:rgb(237, 237, 237);}
+.box {
+ 
+  padding: 10px;
+  color: #fff;
+  
+}
+
+.margin-top-80 {
+  margin-top: 80px;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(0, 173, 166);
+}
+
+.row {
+
+  background:white;
+}
